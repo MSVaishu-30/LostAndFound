@@ -28,13 +28,13 @@ This is a simple **Lost and Found** platform developed using **Java** and **MySQ
 1. Clone the repository:
    ```bash
    git clone https://github.com/MSVaishu-30/LostAndFound.git
-Open the project in NetBeans IDE
+   
+2. Open the project in NetBeans IDE
 
-2. Import the database:
-   Open phpMyAdmin via XAMPP
-
-3. Create a database (e.g., lostandfound)
-    Import the .sql file (if available)
+3. Import the database:
+     Open phpMyAdmin via XAMPP (or use MySQL Workbench if you have MySQL installed)
+     Create a new database named lostandfound
+     Import the lostandfound.sql file from the project folder
 
 4. Run the project through NetBeans
 
